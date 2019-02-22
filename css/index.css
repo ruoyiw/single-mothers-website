@@ -1,0 +1,104 @@
+.introduction {
+    width: 84%;
+    margin-left: 6%;
+    margin-top: 35px;
+    font-family: Karla;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 21px;
+    font-size: 17px;
+    letter-spacing: -0.02em;
+}
+.illustration {
+    margin-top: 35px;
+    border-radius: 0px 2px 2px 0px;
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.section {
+    margin-top: 25px;
+}
+.blue-button, .green-button, .pink-button {
+    width: 88%;
+    height: 200px;
+    margin-top: 15px;
+    border-radius: 2px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.blue-button {
+    background: #CBE7FF;
+}
+.green-button {
+    background: #D4F3EB;
+}
+.pink-button {
+    background: #F3E1D4;
+}
+.buttion-text {
+    width: 70%;
+    margin-left: 5%;
+    padding-top: 5%;
+    font-family: Lora;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 20px;
+    letter-spacing: -0.04em;
+    color: #000000;
+}
+a:hover {
+    text-decoration:none;
+    cursor:pointer;
+}
+.email-instruction {
+    width: 80%;
+    margin-left: 7%;
+    margin-top: 35px;
+    font-family: Lora;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 20px;
+    letter-spacing: -0.04em;
+}
+input[type=email] {
+    margin-left: 7%;
+    margin-top: 20px;
+    width: 86%;
+    padding: 15px 20px;
+    display: inline-block;
+    background-color: rgba(187, 181, 181, 0.15);
+    border: none;    
+    border-radius: 2px;
+    line-height: 18px;
+    letter-spacing: -0.03em;
+}
+::-webkit-input-placeholder {
+    color: #424242;
+    font-family: Karla;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 18px;
+    font-size: 15px;
+}
+footer {
+    margin-top: 50px;
+}
+.footer-text {
+    width: 56%;
+    margin-left: 7%;
+    font-family: Karla;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 13px;
+    color: #424242;
+}
+.footer-logo {    
+    position: absolute;
+    margin-left: 80%;
+}
