@@ -30,8 +30,8 @@
 .pink-button {
     background: #F3E1D4;
 }
-.buttion-text {
-    width: 70%;
+.button-title {
+    width: 75%;
     margin-left: 5%;
     padding-top: 5%;
     font-family: Lora;
@@ -41,6 +41,20 @@
     font-size: 20px;
     letter-spacing: -0.04em;
     color: #000000;
+}
+.button-text {
+    font-family: Karla;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 13px;
+    margin-left: 5%;
+    padding-bottom: -20px;
+    width: 83%;
+    color: #000000;
+}
+p {
+   margin-bottom: 8px; 
 }
 .email-instruction {
     width: 80%;
@@ -77,8 +91,8 @@ footer {
     margin-top: 50px;
 }
 .footer-text {
-    width: 56%;
-    margin-left: 7%;
+    width: 70%;
+    margin-left: 22%;
     font-family: Karla;
     font-style: normal;
     font-weight: normal;
@@ -88,5 +102,5 @@ footer {
 }
 .footer-logo {    
     position: absolute;
-    margin-left: 80%;
+    margin-left: 6%;
 }
