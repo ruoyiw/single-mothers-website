@@ -156,9 +156,10 @@ footer {
     letter-spacing: -0.02em;
     color: #000000;
 }
-#next-arrow {
+.next-arrow {
     position: absolute;
-    margin-left: 70%;
+    margin-left: 80%;
+    margin-top: -8px;
 }
 a:hover {
     text-decoration: none;
