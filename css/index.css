@@ -1,5 +1,4 @@
 .introduction {
-    width: 84%;
     margin-left: 6%;
     margin-top: 35px;
     font-family: Karla;
@@ -13,6 +12,7 @@
     margin-top: 25px;
 }
 .blue-button, .green-button, .pink-button {
+    position: absolute;
     width: 327px;
     height: 200px;
     margin-top: 15px;
